@@ -1,6 +1,6 @@
 # KAIO RODRIGO FERREIRA
 
-Seja bem-vindo ao meu [arquivo-perfil.md]([https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/kferreiras.md](https://github.com/krferreiras/krferreiras/blob/main/README.md))! Me chamo Kaio Rodrigo, tenho 25 anos e atualmente estou cursando o tecnólogo de Desenvolvimento de Sistemas no SENAI - CETEC Palmas-TO.
+Seja bem-vindo ao meu [arquivo-perfil.md]((https://github.com/krferreiras/krferreiras/blob/main/README.md))! Me chamo Kaio Rodrigo, tenho 25 anos e atualmente estou cursando o tecnólogo de Desenvolvimento de Sistemas no SENAI - CETEC Palmas-TO.
 
 ## Minhas Habilidades Técnicas
 #### <> Linguagens de Programação </>

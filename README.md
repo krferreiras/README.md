@@ -20,5 +20,3 @@ Seja bem-vindo ao meu [arquivo-perfil.md](https://github.com/digitalinnovationon
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krferreiras&layout=compact&bg_color=000&border_color=de4707&title_color=E94D5F&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krferreiras&theme=bear&background=000&border=de4707&dates=FFF)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/krferreiras/krferreiras/blob/output/github-contribution-grid-snake.svg)

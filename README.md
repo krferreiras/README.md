@@ -21,4 +21,4 @@ Seja bem-vindo ao meu [arquivo-perfil.md](https://github.com/digitalinnovationon
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krferreiras&theme=bear&background=000&border=de4707&dates=FFF)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/krferreiras/krferreiras/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/krferreiras/blob/output/github-contribution-grid-snake.svg)
